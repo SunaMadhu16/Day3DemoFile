@@ -1,0 +1,27 @@
+Demo Text File
+
+=================================
+
+Title: Introduction to Programming
+
+Chapter 1: Basics of Programming
+
+Welcome to the exciting world of programming! In this chapter, we will cover the fundamental concepts that form the backbone of programming languages. Whether you're a beginner or looking to refresh your skills, this chapter is a great starting point.
+
+1.1 Understanding Variables
+
+Variables are containers for storing data values. In this section, we'll explore how to declare, assign values to, and manipulate variables in different programming languages.
+
+1.2 Control Structures
+
+Learn about control structures such as loops and conditional statements. These are essential for directing the flow of a program and making decisions based on specific conditions.
+
+Chapter 2: Data Structures
+
+In the next chapter, we'll delve into data structures like arrays, lists, and dictionaries. Understanding these structures is crucial for effective data manipulation and storage.
+
+Stay tuned for more exciting content in the upcoming chapters!
+
+=================================
+
+End of Demo Text File.
